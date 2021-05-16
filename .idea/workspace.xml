@@ -134,6 +134,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -146,6 +147,7 @@
       <updated>1620880569881</updated>
       <workItem from="1620880572232" duration="862000" />
       <workItem from="1620968108444" duration="60000" />
+      <workItem from="1621143125757" duration="931000" />
     </task>
     <servers />
   </component>
