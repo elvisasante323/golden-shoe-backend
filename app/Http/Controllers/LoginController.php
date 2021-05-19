@@ -20,6 +20,7 @@ class LoginController extends Controller
 
         if ($userData) {
             return response()->json([
+                'id' => $userData->id,
                 'firstName' => $userData->first_name,
                 'lastName' => $userData->last_name,
                 'address' => $userData->address,
@@ -30,6 +31,6 @@ class LoginController extends Controller
         return response()->json([
             'login' => false,
             'data' => 'User not found'
-        ]);
+        ], 404);
     }
 }
